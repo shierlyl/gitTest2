@@ -12,6 +12,7 @@ public class Test {
 	}
 	
 	public String getName() {
+		System.out.println("Hi");
 		return "Emerald";
 	}
 
