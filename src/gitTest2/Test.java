@@ -10,5 +10,9 @@ public class Test {
 	public String toString() {
 		return "Test";
 	}
+	
+	public String getName() {
+		return "Emerald";
+	}
 
 }
