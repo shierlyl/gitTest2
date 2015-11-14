@@ -8,7 +8,7 @@ public class Test {
 	}
 	
 	public String toString() {
-		return "Test2";
+		return "Test23";
 	}
 	
 	public String getName() {
